@@ -4,7 +4,9 @@ A simple command-line interface to [TinyPNG](https://tinypng.com/).
 
 ## Installation
 
-TODO: Write installation instructions.
+* Download [the latest release](https://github.com/zgracem/tiny-dancer/releases/tag/v0.1.0).
+* `cd ~/Downloads` (or wherever you saved the file)
+* `gem install tiny_dancer-0.1.0.gem`
 
 ## Usage
 
