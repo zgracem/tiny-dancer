@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email    = ["zgm@inescapable.org"]
 
   spec.summary  = "A command-line interface to TinyPNG."
-  spec.date     = "2018-09-22"
+  spec.date     = "2018-09-24"
   spec.homepage = "https://github.com/zgracem/tiny_dancer"
   spec.license  = "MIT"
 
