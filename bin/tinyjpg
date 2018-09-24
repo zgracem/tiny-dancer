@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require_relative "../lib/tiny_dancer"
+
+ARGV.each { |arg| TinyDancer.new(arg).tinify! }

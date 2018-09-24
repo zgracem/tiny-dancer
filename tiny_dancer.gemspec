@@ -20,5 +20,5 @@ Gem::Specification.new do |spec|
 
   spec.require_paths = ["lib"]
   spec.bindir   = "bin"
-  spec.executables = ["tinypng"]
+  spec.executables = ["tinypng", "tinyjpg"]
 end
