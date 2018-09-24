@@ -16,3 +16,24 @@ A simple command-line interface to [TinyPNG](https://tinypng.com/).
     * `image.png` is uploaded to TinyPNG's servers, where it is tinified
     * The smaller version of `image.png` is downloaded from TinyPNG
     * The smaller version overwrites the existing `image.png`
+
+## Future plans
+
+* Control overwriting behaviour
+* Support more of the [API][]:
+    * specify URL instead of path to local file
+    * resize/crop images
+    * control preservation of metadata
+* Proxy support
+
+[API]: https://tinypng.com/developers/reference/ruby
+
+## Credits
+
+"TinyPNG", "TinyJPG", and "Tinify" are the intellectual property of Tinify B.V.
+I am not affiliated with Tinify, and this product is not endorsed or approved
+by them in any way.
+
+## Say hello
+
+[zgm&#x40;inescapable&#x2e;org](mailto:zgm%40inescapable%2eorg)
